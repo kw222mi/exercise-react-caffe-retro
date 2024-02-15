@@ -13,7 +13,7 @@ The sketch is in the form of a video, "Caffe Retro sketch", and it shows a websi
 
 You must imitate the sketch as much as you can. Do not use your own images and fonts, but use the attached material, follow the look in the video and the instructions in this exercise description. The built-in CSS color `darkred` is a good color for this exercise.
 
-The different images, fonts and texts are available in the asssets folder.
+The different images, fonts, texts and video are available in the asssets folder.
 
 ### Intructions
 
