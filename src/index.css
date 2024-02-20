@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hot-page {
+    background-image: url("./assets/hot.jpg");
+    height: 100vh;
+    width: 900px;
+    margin: auto;
+}
