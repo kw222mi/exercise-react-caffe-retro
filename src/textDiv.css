@@ -20,10 +20,10 @@
     align-items: center;
 }
 
-#hot-first {
+.first {
     margin: 10px 20%;
 }
 
-#hot-second {
+.second {
     margin: 10px 30%;
 }
