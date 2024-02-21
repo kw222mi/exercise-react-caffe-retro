@@ -1,9 +1,10 @@
+import "./header.css"
 
-export function Header () {
-    let page = "HOT"
+export function Header (props) {
+    
     return (
         <>
-        <h1>{page}</h1>
+        <h1 className="page-headline">{props.page}</h1>
         </>
     )
 }

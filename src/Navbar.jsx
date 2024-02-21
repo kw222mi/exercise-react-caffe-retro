@@ -21,13 +21,16 @@ export function Navbar() {
 
   return (
     <nav className="navbar">
+      <ul className="nav-list">
       {links.map((link) => {
         return (
-          <a key={link.id} href={link.path}>
+         <li className="nav-item" key={link.id}><a  href={link.path}>
             {link.name}
-          </a>
+          </a></li> 
         );
       })}
+      </ul>
     </nav>
   );
 }
+

@@ -1,4 +1,4 @@
-
+import "./textDiv.css"
 
 
 export function TextDiv(props) {
@@ -6,8 +6,9 @@ export function TextDiv(props) {
  
   return (
     <>
- 
-      <p>{props.text}</p>
+      <div className="text-container">
+      <p className="text">{props.text}</p>
+      </div>
     </>
   );
 }

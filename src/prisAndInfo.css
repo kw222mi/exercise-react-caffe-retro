@@ -1,0 +1,27 @@
+.price-list {
+    display: flex;
+    background-color: black;
+    opacity: 70%;
+    color: white;
+    font-family: 'Poiret One', sans-serif;
+    font-size: 20px;
+    flex-direction: column;
+    padding-top: 2px;
+    padding-bottom: 0;
+    width: 50%;
+    align-self: center;
+    list-style: none;
+    padding-inline-start: 0;
+
+}
+
+.price-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 0px;
+    padding-bottom: 0;
+    line-height: .01;
+    padding-left: 20px;
+    padding-right: 20px;
+}

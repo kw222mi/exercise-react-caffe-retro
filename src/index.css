@@ -4,9 +4,12 @@
     box-sizing: border-box;
 }
 
-.hot-page {
-    background-image: url("./assets/hot.jpg");
-    height: 100vh;
-    width: 900px;
-    margin: auto;
+body,
+html {
+
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    scroll-behavior: smooth;
 }
+

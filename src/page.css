@@ -1,0 +1,32 @@
+
+.page {
+    margin-top: 0;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 1;
+}
+
+.hot-page {
+    background-image: url("./assets/hot.jpg");
+    border-bottom: solid;
+    border-color: red;
+    border-width: 10px;
+}
+
+.juicy-page {
+    background-image: url("./assets/juicy.jpg");
+
+}
+
+.cosy-page {
+    background-image: url("./assets/cosy.jpg");
+
+}
+
+
+
+
+
+
