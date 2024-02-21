@@ -4,6 +4,7 @@ export function PriceJuicy() {
     
   return (
     <>
+    <div className="text-container">
     <ul className="price-list">
         <li className="price-item">
             <p>Branched Apricots</p>
@@ -18,6 +19,7 @@ export function PriceJuicy() {
             <p>€ 6.50</p>
         </li>
     </ul>
+    </div>
     </>
   );
 }

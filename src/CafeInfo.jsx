@@ -4,6 +4,7 @@ export function CafeInfo() {
     
   return (
     <>
+     <div className="text-container">
      <ul className="price-list">
     
                     <li className="price-item">
@@ -19,6 +20,7 @@ export function CafeInfo() {
                         <p>caffe@lorem.pge</p>
                     </li>
                 </ul>
+                </div>
     </>
   );
 }
